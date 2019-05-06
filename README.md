@@ -1,2 +1,2 @@
-# fullstack-2019
-Full stack open 2019 -repositorio
+# Full Stack Open 2019
+Fullstack-repositorio.
