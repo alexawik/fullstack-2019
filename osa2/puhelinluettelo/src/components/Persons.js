@@ -7,7 +7,7 @@ const Persons = (props) => {
 
   const list = () => namesToShow.map(person => 
     <li key={person.name}>
-      {person.name} {person.number} 
+      {person.name} {person.number} <button onClick={() => props.remove(person)}>Delete</button>
     </li>
   )  
   
